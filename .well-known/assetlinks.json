@@ -3,6 +3,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "hu.goatsapp.app",
-        "sha256_cert_fingerprints": ["A3:EF:4C:B8:85:11:F9:1A:26:20:C5:9E:2E:7E:72:C1:37:7B:8A:45:12:8A:2A:29:03:62:AB:8F:4D:19:08:DB"]
+        "sha256_cert_fingerprints": ["A3:EF:4C:B8:85:11:F9:1A:26:20:C5:9E:2E:7E:72:C1:37:7B:8A:45:12:8A:2A:29:03:62:AB:8F:4D:19:08:DB",
+        "09:26:72:44:CC:E6:D3:7F:B3:66:4D:E1:F0:45:C4:6D:47:EB:EC:14:DB:E5:6B:6A:0F:B4:92:E7:D6:06:D5:87"]
       }
     }]
